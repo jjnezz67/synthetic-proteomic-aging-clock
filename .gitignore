@@ -1,0 +1,23 @@
+# Large data files
+sound_life_all_olink.csv
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
